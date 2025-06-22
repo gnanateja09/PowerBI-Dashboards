@@ -27,22 +27,22 @@ This repository contains interactive dashboards developed using Microsoft Power 
 ## 🖼️ Dashboard Screenshots
 
 ### 🔸 Blinkit Dashboard
-![Blinkit Dashboard](images/blinkit.png)
+![Blinkit Dashboard](blinkit.png)
 
 ---
 
 ### 🔸 Call Centre Dashboard
-![Call Centre Dashboard](images/callcentre.png)
+![Call Centre Dashboard](callcentre.png)
 
 ---
 
 ### 🔸 Road Accident Analysis
-![Road Accident Dashboard](images/roadaccident.png)
+![Road Accident Dashboard](roadaccident.png)
 
 ---
 
 ### 🔸 Sales Dashboard
-![Sales Dashboard](images/sales.png)
+![Sales Dashboard](sales.png)
 
 > 📌 Make sure to upload your screenshots in a folder named `images/` in this repository so the above image links work correctly.
 
